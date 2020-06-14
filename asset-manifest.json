@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/periodic-table/static/css/main.54d2ecc4.chunk.css",
+    "main.js": "/periodic-table/static/js/main.7f0070a9.chunk.js",
+    "main.js.map": "/periodic-table/static/js/main.7f0070a9.chunk.js.map",
+    "runtime-main.js": "/periodic-table/static/js/runtime-main.fb13ef13.js",
+    "runtime-main.js.map": "/periodic-table/static/js/runtime-main.fb13ef13.js.map",
+    "static/js/2.dbc25955.chunk.js": "/periodic-table/static/js/2.dbc25955.chunk.js",
+    "static/js/2.dbc25955.chunk.js.map": "/periodic-table/static/js/2.dbc25955.chunk.js.map",
+    "index.html": "/periodic-table/index.html",
+    "precache-manifest.a1b012e21a6b0491018b0a17fb3fdd82.js": "/periodic-table/precache-manifest.a1b012e21a6b0491018b0a17fb3fdd82.js",
+    "service-worker.js": "/periodic-table/service-worker.js",
+    "static/css/main.54d2ecc4.chunk.css.map": "/periodic-table/static/css/main.54d2ecc4.chunk.css.map",
+    "static/js/2.dbc25955.chunk.js.LICENSE.txt": "/periodic-table/static/js/2.dbc25955.chunk.js.LICENSE.txt",
+    "static/media/information-info-svgrepo-com.svg": "/periodic-table/static/media/information-info-svgrepo-com.c7d65a4e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb13ef13.js",
+    "static/js/2.dbc25955.chunk.js",
+    "static/css/main.54d2ecc4.chunk.css",
+    "static/js/main.7f0070a9.chunk.js"
+  ]
+}
